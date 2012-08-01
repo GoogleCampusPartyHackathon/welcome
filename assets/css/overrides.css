@@ -20,4 +20,15 @@ body {
 	font-weight: bold;
 }
 
+.hero-unit p{
+	font-size: 18pt;
+}
 
+.row h2{
+	margin-top: 20px;
+}
+
+.row p{
+	font-size: 1em;
+	line-height: 1.4em;	
+}
