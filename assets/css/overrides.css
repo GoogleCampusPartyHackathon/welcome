@@ -5,12 +5,11 @@ body {
 
 .navbar .brand {
 	background: url(../img/google-chrome-big.png) 20px no-repeat;
-	padding-left: 40px;
+	padding: 35px 20px 53px 220px;
 }
 
 .navbar .logo{
-	padding-top: 10px;
-	padding-right: 20px;
+	padding: 30px;
 }
 
 .sidebar-nav {
