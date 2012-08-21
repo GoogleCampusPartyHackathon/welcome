@@ -12,6 +12,10 @@ body {
 	padding: 30px;
 }
 
+.nav-list li{
+	padding-bottom: 5px;
+} 
+
 .sidebar-nav {
 	padding: 9px 0;
 }
